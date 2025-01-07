@@ -1,4 +1,4 @@
-## Betting Website (under development}
+## Betting Website 
 
 This is a web application for a betting website built using React JavaScript and the MERN stack (MongoDB, Express, React, and Node.js).
 
@@ -75,32 +75,4 @@ These technologies are subject to change in future as we build our website.
 - View account balance, betting history, and open bets
 - Admins can manage sports events, betting odds, and user accounts through the admin panel
 
-## Contributing
 
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature/bugfix: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m "Description of your changes"`
-4. Push your changes to the forked repository: `git push origin feature-name`
-5. Create a pull request against the `main` branch of the original repository
-
-
-## Acknowledgements
-
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [Passport](http://www.passportjs.org/)
-- [Axios](https://axios-http.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Socket.io](https://socket.io/)
-
-## Contact
-
-If you have any questions or suggestions, please feel free to contact the project owner:
-
-- [Utkarsh](mailto:hauntedutkarsh@gmail.com)
